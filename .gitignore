@@ -1,0 +1,10 @@
+node_modules/
+/.env
+/.env.*
+!/.env.example
+/.pingroom/
+/.merge/
+/config.json
+/merge.json
+*.log
+.DS_Store

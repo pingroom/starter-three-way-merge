@@ -1,0 +1,23 @@
+{
+  "mergeId": "reading-view-001",
+  "title": "Reading view preferences",
+  "base": {
+    "theme": "light",
+    "font_size": 14,
+    "show_tips": true,
+    "sidebar": "expanded"
+  },
+  "ours": {
+    "theme": "dark",
+    "font_size": 16,
+    "show_tips": true,
+    "sidebar": "expanded",
+    "line_numbers": false
+  },
+  "theirs": {
+    "theme": "system",
+    "font_size": 14,
+    "show_tips": false,
+    "line_numbers": false
+  }
+}
